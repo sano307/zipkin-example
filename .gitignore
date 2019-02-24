@@ -1,0 +1,30 @@
+# Exclude OS X folder attributes
+.DS_Store
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Build
+build/
+target/
+.gradle
+
+# Eclipse
+.project
+.classpath
+.settings
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea
+
+# VS Code
+.vscode
+
+# The others
+*.swp
